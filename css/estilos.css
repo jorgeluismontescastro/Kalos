@@ -1,0 +1,12 @@
+body
+{
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer
+{
+    color: red;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
